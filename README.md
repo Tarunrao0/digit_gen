@@ -22,3 +22,8 @@ A dataset containing 70,000 grayscale images of handwritten digits, each of size
 
 # Test Results
 ![Screenshot 2024-11-16 090806](https://github.com/user-attachments/assets/70ccac87-d24e-44e5-9acb-5e7e31debf1c)
+
+# Links 🖇️
+
+**Discriminator** : [disc](https://drive.google.com/file/d/1U_h1Dx3772fV13mLmU-kiL1HEavUK4JD/view?usp=sharing) \
+**Generator** : [gen](https://drive.google.com/file/d/17BV8ixk1emqxke7d22oessZ3GQ3yVLUw/view?usp=sharing)
